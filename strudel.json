@@ -1,5 +1,5 @@
 {"_base":"https://raw.githubusercontent.com/devopsrockstar/samples/main/",
  "tuning":["sounds/orchestra-tuning.mp3"],
  "choir":["sounds/orthodox-choir.wav"],
- "win":["sounds/need_a_win.mp3"]
+ "win":["sounds/need-a-win.mp3"]
 }
